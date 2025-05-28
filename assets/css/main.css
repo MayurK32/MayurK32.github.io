@@ -1958,3 +1958,10 @@ section,
 .starter-section {
   /* Add your styles here */
 }
+
+gradio-app {
+  margin: 40px auto;
+  display: block;
+  border-radius: 10px;
+  overflow: hidden;
+}
